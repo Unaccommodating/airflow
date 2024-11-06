@@ -14,7 +14,7 @@ def sum_results_task():
 
 default_args = {
     'owner': 'airflow',
-    'start_date': datetime(2023, 11, 5),
+    'start_date': datetime(2024, 11, 10),
     'retries': 1,
 }
 
